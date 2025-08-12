@@ -37,3 +37,6 @@ def calculate_beta(stocks_daily_return, stock):
     b, a = np.polyfit(stocks_daily_return['sp500'], stocks_daily_return[stock], 1)
     return b,a
 
+
+
+
