@@ -2,7 +2,7 @@ numpy>=1.26.0
 scipy>=1.11.0
 pyportfolioopt==1.5.6
 ecos>=2.0.14,<3.0.0
-lxml==4.9.2
+lxml==4.6.2
 altair==4.2.0
 attrs==22.1.0
 blinker==1.5
